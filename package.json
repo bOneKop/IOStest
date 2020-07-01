@@ -1,0 +1,22 @@
+{
+  "name": "iostest",
+  "version": "1.0.0",
+  "description": "iostest",
+  "main": "ios.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bOneKop/IOStest.git"
+  },
+  "author": "wuhanming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bOneKop/IOStest/issues"
+  },
+  "homepage": "https://github.com/bOneKop/IOStest#readme",
+  "dependencies": {
+    "opn": "^6.0.0"
+  }
+}
