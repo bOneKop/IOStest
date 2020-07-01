@@ -1,3 +1,2 @@
-'use strict';
-const opn = require('opn');
+var opn = require('opn');
 opn('http://sindresorhus.com');
