@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/bOneKop/IOStest#readme",
   "dependencies": {
-    "opn": "5.0.0"
+    "better-opn": "^2.0.0"
   }
 }

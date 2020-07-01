@@ -1,2 +1,2 @@
-var opn = require('opn');
+var opn = require('better-opn');
 opn('http://sindresorhus.com');
