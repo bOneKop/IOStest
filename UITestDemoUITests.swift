@@ -2,7 +2,6 @@
 //  UITestDemoUITests.swift
 //  UITestDemoUITests
 //
-//  Created by 刘忠雨 on 2020/7/28.
 //  Copyright © 2020 xiangzirui. All rights reserved.
 //
 
